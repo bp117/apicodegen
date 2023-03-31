@@ -1,0 +1,10 @@
+{
+    "watch": ".",
+    "ext": ".ts,.js",
+    "ignore": [
+        "downloads/*",
+        "dist/*",
+        "node_modules"
+    ],
+    "exec": "npx ts-node ./dist/app.js"
+}

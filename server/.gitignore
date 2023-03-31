@@ -1,0 +1,9 @@
+/node_modules
+/dist
+/downloads
+
+.env
+
+*.yaml
+
+*.log
